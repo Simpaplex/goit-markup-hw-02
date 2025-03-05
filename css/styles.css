@@ -110,6 +110,7 @@ address a:focus {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  cursor: pointer;
 }
 
 .hero-page-button:hover {
