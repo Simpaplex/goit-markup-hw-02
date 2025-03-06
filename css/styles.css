@@ -2,7 +2,7 @@ body {
   background-color: white;
   font-family: 'Roboto', sans-serif;
   color: #434455;
-  }
+}
 
 a {
   text-decoration: none;
@@ -22,7 +22,7 @@ header {
   font-weight: 700;
   line-height: 1.16667;
   font-size: 18px;
-    letter-spacing: 0.03em;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
@@ -63,7 +63,7 @@ header {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  }
+}
 
 .address-item:hover,
 .address-item:focus {
@@ -73,7 +73,7 @@ header {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #404bbf;
-  }
+}
 
 .hero-page {
   background: #2e2f42;
@@ -82,15 +82,14 @@ header {
 .hero-page-title {
   font-weight: 700;
   font-size: 56px;
-    letter-spacing: 0.02em;
-    line-height: 1.07143;
+  letter-spacing: 0.02em;
+  line-height: 1.07143;
   text-align: center;
   color: #fff;
 }
 
 .hero-page-button {
   font-family: 'Roboto', sans-serif;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -102,7 +101,6 @@ header {
 
 .hero-page-button:hover,
 .hero-page-button:focus {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #404bbf;
 }
 
@@ -133,16 +131,14 @@ header {
 .team-title {
   font-weight: 700;
   font-size: 36px;
-    letter-spacing: 0.02em;
-    line-height: 1.11111;
+  letter-spacing: 0.02em;
+  line-height: 1.11111;
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
 }
 
 .team-item {
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
-    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   background: #fff;
 }
 
@@ -170,8 +166,8 @@ header {
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
-    letter-spacing: 0.02em;
-    line-height: 1.11111;
+  letter-spacing: 0.02em;
+  line-height: 1.11111;
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
@@ -203,7 +199,7 @@ header {
   line-height: 1.16667;
   font-weight: 700;
   font-size: 18px;
-    letter-spacing: 0.03em;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .second-part {
